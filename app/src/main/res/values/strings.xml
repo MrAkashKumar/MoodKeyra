@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MoodKeyra</string>
+    <string name="ime_name">MoodKeyra Keyboard</string>
+    <string name="subtype_english">English (US)</string>
+</resources>
